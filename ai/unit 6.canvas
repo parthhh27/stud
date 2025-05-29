@@ -1,14 +1,14 @@
 {
 	"nodes":[
 		{"id":"c74e026e2649a6ec","type":"text","text":"<h1>unit 6","x":-480,"y":-420,"width":250,"height":60},
-		{"id":"9ed97d610be35d85","type":"file","file":"ai/Pasted image 20250529135008.png","x":-33,"y":3840,"width":1910,"height":3739},
-		{"id":"b4d8fec9529eb7ad","type":"file","file":"ai/Pasted image 20250529135053.png","x":2170,"y":3840,"width":1840,"height":3686},
-		{"id":"153aeae636c95fcf","type":"file","file":"ai/Pasted image 20250529135202.png","x":4200,"y":3840,"width":1920,"height":5055},
-		{"id":"b1b2c5593ba4ede3","type":"file","file":"ai/Pasted image 20250529094159.png","x":-960,"y":-300,"width":795,"height":512},
-		{"id":"bc1f0176d8f4159a","type":"file","file":"ai/Pasted image 20250529134340.png","x":-80,"y":-300,"width":1539,"height":2500},
-		{"id":"9039dbece0e1afd8","type":"file","file":"ai/Pasted image 20250529134517.png","x":1680,"y":-300,"width":1410,"height":3838},
-		{"id":"1ef392512f8236cc","type":"file","file":"ai/Pasted image 20250529134613.png","x":3425,"y":-300,"width":1375,"height":3737},
-		{"id":"546a216fac8c7718","type":"file","file":"ai/Pasted image 20250529134809.png","x":5160,"y":-360,"width":1560,"height":4050}
+		{"id":"9ed97d610be35d85","type":"file","file":"ai/imgs/Pasted image 20250529135008.png","x":-33,"y":3840,"width":1910,"height":3739},
+		{"id":"b4d8fec9529eb7ad","type":"file","file":"ai/imgs/Pasted image 20250529135053.png","x":2170,"y":3840,"width":1840,"height":3686},
+		{"id":"153aeae636c95fcf","type":"file","file":"ai/imgs/Pasted image 20250529135202.png","x":4200,"y":3840,"width":1920,"height":5055},
+		{"id":"b1b2c5593ba4ede3","type":"file","file":"ai/imgs/Pasted image 20250529094159.png","x":-960,"y":-300,"width":795,"height":512},
+		{"id":"bc1f0176d8f4159a","type":"file","file":"ai/imgs/Pasted image 20250529134340.png","x":-80,"y":-300,"width":1539,"height":2500},
+		{"id":"9039dbece0e1afd8","type":"file","file":"ai/imgs/Pasted image 20250529134517.png","x":1680,"y":-300,"width":1410,"height":3838},
+		{"id":"1ef392512f8236cc","type":"file","file":"ai/imgs/Pasted image 20250529134613.png","x":3425,"y":-300,"width":1375,"height":3737},
+		{"id":"546a216fac8c7718","type":"file","file":"ai/imgs/Pasted image 20250529134809.png","x":5160,"y":-360,"width":1560,"height":4050}
 	],
 	"edges":[]
 }
