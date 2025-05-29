@@ -1,0 +1,64 @@
+Last login: Wed May 28 21:32:31 on ttys001
+~ ❯ cd "/Users/parth/Desktop/x/studies-mine"
+
+
+~/Desktop/x/studies-mine ❯ git init
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/parth/Desktop/x/studies-mine/.git/
+
+~/Desktop/x/studies-mine master* ❯ echo ".obsidian/workspace.json" >> .gitignore 
+
+~/Desktop/x/studies-mine master* ❯ echo ".DS_Store" >> .gitignore
+
+~/Desktop/x/studies-mine master* ❯ git add .
+
+
+~/Desktop/x/studies-mine master* ❯ git commit -m "Initial commit of my Obsidian studies vault"
+
+[master (root-commit) e898ed4] Initial commit of my Obsidian studies vault
+ 19 files changed, 1351 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 .obsidian/app.json
+ create mode 100644 .obsidian/appearance.json
+ create mode 100644 .obsidian/core-plugins.json
+ create mode 100644 .obsidian/graph.json
+ create mode 100644 .obsidian/themes/GitHub Theme/manifest.json
+ create mode 100644 .obsidian/themes/GitHub Theme/theme.css
+ create mode 100644 ai/1234.canvas
+ create mode 100644 ai/Pasted image 20250529093825.png
+ create mode 100644 ai/Pasted image 20250529093853.png
+ create mode 100644 ai/Pasted image 20250529093919.png
+ create mode 100644 ai/Pasted image 20250529093932.png
+ create mode 100644 ai/Pasted image 20250529094054.png
+ create mode 100644 ai/Pasted image 20250529094115.png
+ create mode 100644 ai/Pasted image 20250529094159.png
+ create mode 100644 ai/unit 3.canvas
+ create mode 100644 ai/unit 4.canvas
+ create mode 100644 ai/unit 5.canvas
+ create mode 100644 ai/unit 6.canvas
+~/Desktop/x/studies-mine master ❯ git remote add origin https://github.com/parthhh27/stud.git
+
+~/Desktop/x/studies-mine master ❯ git branch -M main
+
+~/Desktop/x/studies-mine main ❯ git push -u origin main
+Enumerating objects: 24, done.
+Counting objects: 100% (24/24), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (21/21), done.
+Writing objects: 100% (24/24), 776.65 KiB | 23.53 MiB/s, done.
+Total 24 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/parthhh27/stud.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+~/Desktop/x/studies-mine main 7s ❯ nano gitpushstory.txt
+

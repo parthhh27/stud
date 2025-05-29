@@ -1,4 +1,5 @@
 {
   "cssTheme": "GitHub Theme",
-  "accentColor": "#00ff33"
+  "accentColor": "#00ff33",
+  "translucency": false
 }
