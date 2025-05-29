@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"29706e0d391443b7","type":"text","text":"Develop Odoo tool applications and modifications which will help with the sevas of many teams, and help with the better spread of spirituality, and support to the curious and seekers.","x":-440,"y":-220,"width":428,"height":222},
-		{"id":"dd36ffcae6d5351e","type":"text","text":"Python development; Experience with API integrations (REST, JSON, Webhooks) for platform connectivity; Problem-solving skills; Nice to have: Familiarity with Odoo or similar ERP system; Basic frontend skills (HTML, CSS, JavaScript), understanding of CRM systems and business processes.","x":620,"y":-238,"width":505,"height":271},
-		{"id":"ed2beef1f7b09c47","type":"text","text":"Python development to <mark style=\"background: #BBFABBA6;\">enhance Odoo’s capabilities</mark>, <mark style=\"background: #BBFABBA6;\">have new functionalities</mark>, <mark style=\"background: #BBFABBA6;\">improve automation</mark> and <mark style=\"background: #BBFABBA6;\">make it easier</mark> for seekers to do sevas. For example <mark style=\"background: #00FF1E91;\">API integrations with third party <mark style=\"background: #00FF1E91;\">tools</mark></mark>, customizing CRM features, improving the website builder, etc. Even without prior Odoo experience, seeker in this seva will have opportunities to learn and contribute to Guru’s mission.","x":40,"y":-238,"width":480,"height":258,"color":"1"}
-	],
-	"edges":[]
-}

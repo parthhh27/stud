@@ -62,3 +62,102 @@ branch 'main' set up to track 'origin/main'.
 
 ~/Desktop/x/studies-mine main 7s ❯ nano gitpushstory.txt
 
+$$$$$$$$$$  update story $$$$$$$$$$$$$$
+
+
+~/Desktop/x/studies-mine main* 7s ❯ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .obsidian/appearance.json
+	modified:   ai/unit 3.canvas
+	modified:   ai/unit 4.canvas
+	modified:   ai/unit 5.canvas
+	modified:   ai/unit 6.canvas
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	ai/Pasted image 20250529125629.png
+	ai/Pasted image 20250529125737.png
+	ai/Pasted image 20250529125821.png
+	ai/Pasted image 20250529125911.png
+	ai/Pasted image 20250529130012.png
+	ai/Pasted image 20250529130104.png
+	ai/Pasted image 20250529130224.png
+	ai/Pasted image 20250529130829.png
+	ai/Pasted image 20250529132453.png
+	ai/Pasted image 20250529132528.png
+	ai/Pasted image 20250529132714.png
+	ai/Pasted image 20250529132945.png
+	ai/Pasted image 20250529133052.png
+	ai/Pasted image 20250529133123.png
+	ai/Pasted image 20250529133151.png
+	ai/Pasted image 20250529133604.png
+	ai/Pasted image 20250529133733.png
+	ai/Pasted image 20250529133846.png
+	ai/Pasted image 20250529134032.png
+	ai/Pasted image 20250529134340.png
+	ai/Pasted image 20250529134517.png
+	ai/Pasted image 20250529134613.png
+	ai/Pasted image 20250529134749.png
+	ai/Pasted image 20250529134809.png
+	ai/Pasted image 20250529135008.png
+	ai/Pasted image 20250529135053.png
+	ai/Pasted image 20250529135202.png
+	ai/Screenshot 2025-05-29 at 10.34.13.png
+	ai/Screenshot 2025-05-29 at 12.30.04.png
+	gitpushstory.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+~/Desktop/x/studies-mine main* ❯ git add .
+
+~/Desktop/x/studies-mine main* ❯ git commit -m "updated anss"
+[main 0d01c84] updated anss
+ 35 files changed, 109 insertions(+), 7 deletions(-)
+ create mode 100644 ai/Pasted image 20250529125629.png
+ create mode 100644 ai/Pasted image 20250529125737.png
+ create mode 100644 ai/Pasted image 20250529125821.png
+ create mode 100644 ai/Pasted image 20250529125911.png
+ create mode 100644 ai/Pasted image 20250529130012.png
+ create mode 100644 ai/Pasted image 20250529130104.png
+ create mode 100644 ai/Pasted image 20250529130224.png
+ create mode 100644 ai/Pasted image 20250529130829.png
+ create mode 100644 ai/Pasted image 20250529132453.png
+ create mode 100644 ai/Pasted image 20250529132528.png
+ create mode 100644 ai/Pasted image 20250529132714.png
+ create mode 100644 ai/Pasted image 20250529132945.png
+ create mode 100644 ai/Pasted image 20250529133052.png
+ create mode 100644 ai/Pasted image 20250529133123.png
+ create mode 100644 ai/Pasted image 20250529133151.png
+ create mode 100644 ai/Pasted image 20250529133604.png
+ create mode 100644 ai/Pasted image 20250529133733.png
+ create mode 100644 ai/Pasted image 20250529133846.png
+ create mode 100644 ai/Pasted image 20250529134032.png
+ create mode 100644 ai/Pasted image 20250529134340.png
+ create mode 100644 ai/Pasted image 20250529134517.png
+ create mode 100644 ai/Pasted image 20250529134613.png
+ create mode 100644 ai/Pasted image 20250529134749.png
+ create mode 100644 ai/Pasted image 20250529134809.png
+ create mode 100644 ai/Pasted image 20250529135008.png
+ create mode 100644 ai/Pasted image 20250529135053.png
+ create mode 100644 ai/Pasted image 20250529135202.png
+ create mode 100644 ai/Screenshot 2025-05-29 at 10.34.13.png
+ create mode 100644 ai/Screenshot 2025-05-29 at 12.30.04.png
+ create mode 100644 gitpushstory.txt
+
+~/Desktop/x/studies-mine main ⇡ ❯ git push                    
+Enumerating objects: 47, done.
+Counting objects: 100% (47/47), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (39/39), done.
+Writing objects: 100% (39/39), 17.01 MiB | 4.30 MiB/s, done.
+Total 39 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/parthhh27/stud.git
+   e898ed4..0d01c84  main -> main
+
+~/Desktop/x/studies-mine main 12s ❯ nano gitpushstory.txt
