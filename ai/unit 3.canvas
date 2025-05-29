@@ -12,10 +12,10 @@
 		{"id":"4747857a64d7512c","type":"link","url":"https://cdn.discordapp.com/attachments/1316391136050282577/1377543319113961652/image.png?ex=683958b0&is=68380730&hm=f0643e05aee39367e8b6a092992bb45dec6566336edcd7ac6d650ae19bf55456&","x":-600,"y":-280,"width":596,"height":1015},
 		{"id":"6188db379be25053","type":"file","file":"ai/imgs/Pasted image 20250529093853.png","x":-2800,"y":-1140,"width":2123,"height":1245},
 		{"id":"0b1f5f3058071ce8","type":"file","file":"ai/imgs/Pasted image 20250529125911.png","x":3567,"y":2366,"width":1120,"height":3644},
-		{"id":"87ce9bbe5df08349","x":6480,"y":-771,"width":1279,"height":1222,"type":"file","file":"WhatsApp Image 2025-05-29 at 22.08.14.jpeg"},
-		{"id":"3edbdded7aff0f6b","x":6320,"y":525,"width":2028,"height":1496,"type":"file","file":"WhatsApp Image 2025-05-29 at 22.11.46.jpeg"},
-		{"id":"ec02d76105d7f3d5","x":6160,"y":2560,"width":2659,"height":2403,"type":"file","file":"WhatsApp Image 2025-05-29 at 22.12.28.jpeg"},
-		{"id":"4429cf9ff3fd534d","x":5853,"y":5714,"width":3274,"height":2429,"type":"file","file":"WhatsApp Image 2025-05-29 at 22.13.39.jpeg"}
+		{"id":"87ce9bbe5df08349","x":6480,"y":-771,"width":1279,"height":1222,"type":"file","file":"ai/imgs/WhatsApp Image 2025-05-29 at 22.08.14.jpeg"},
+		{"id":"3edbdded7aff0f6b","x":6320,"y":525,"width":2028,"height":1496,"type":"file","file":"ai/imgs/WhatsApp Image 2025-05-29 at 22.11.46.jpeg"},
+		{"id":"ec02d76105d7f3d5","x":6160,"y":2560,"width":2659,"height":2403,"type":"file","file":"ai/imgs/WhatsApp Image 2025-05-29 at 22.12.28.jpeg"},
+		{"id":"4429cf9ff3fd534d","x":5853,"y":5714,"width":3274,"height":2429,"type":"file","file":"ai/imgs/WhatsApp Image 2025-05-29 at 22.13.39.jpeg"}
 	],
 	"edges":[]
 }
