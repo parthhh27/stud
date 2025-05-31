@@ -156,13 +156,12 @@
     {
       "type": "highlighter",
       "freedrawOnly": true,
-      "strokeColor": "#FFC47C",
-      "backgroundColor": "#FFC47C",
-      "fillStyle": "solid",
+      "backgroundColor": "blue30",
+      "fillStyle": "dashed",
       "strokeWidth": 2,
       "roughness": null,
       "penOptions": {
-        "highlighter": true,
+        "highlighter": false,
         "constantPressure": true,
         "hasOutline": true,
         "outlineWidth": 4,
@@ -173,16 +172,17 @@
           "easing": "linear",
           "start": {
             "taper": 0,
-            "cap": true,
+            "cap": false,
             "easing": "linear"
           },
           "end": {
             "taper": 0,
-            "cap": true,
+            "cap": false,
             "easing": "linear"
           }
         }
-      }
+      },
+      "strokeColor": "black"
     },
     {
       "type": "finetip",
@@ -433,7 +433,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 0,
+  "numberOfCustomPens": 7,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
